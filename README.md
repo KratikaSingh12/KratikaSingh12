@@ -8,12 +8,15 @@
 
 <div align="center">
   <h2>HI, I'M KRATIKA</h2>
-  <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-  <br><br>
-  Passionate about Web Dev | Problem Solver | Growing through Competitive Programming
-  <br><br>
-  <i>😊 About Me</i> 
+  
+  
 </div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=FFD700&center=true&vCenter=true&width=800&height=50&lines=▮+Sophomore+at+MNNIT+ALLAHABAD;▮+Problem+Solver;▮+Growing+through+Competitive+Programming" />
+</p>
+
+
+
 
 
 ---
@@ -50,7 +53,4 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🔗 My Repositories
-
-Check out all my projects on [GitHub](https://github.com/KratikaSingh12?tab=repositories)
 
